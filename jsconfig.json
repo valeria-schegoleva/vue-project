@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "allowJs": true
+  },
+  "include": [
+    "src/assests/**/*",
+    "src/components/**/*",  
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
